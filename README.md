@@ -13,7 +13,8 @@ This is my first personal website project built using:
 
 ## 🌐 Live Site
 
-🔗 [Click here to view the site](https://gilbertsite.github.io/port/)  
+🔗 [Click here to view the site](https://github.com/gilbertsite/port
+)  
 
 ---
 
