@@ -13,15 +13,14 @@ This is my first personal website project built using:
 
 ## 🌐 Live Site
 
-🔗 [Click here to view the site](https://manizirebera.github.io/port/)  
-> *Replace this link with your actual GitHub Pages link if needed.*
+🔗 [Click here to view the site](https://gilbertsite.github.io/port/)  
 
 ---
 
 ## 📁 Files Included
 
-- `index.html` – Main webpage with internal CSS
-- `profile.png` – My profile picture
+- `port2.html` – Main webpage with internal CSS
+- `img4.png` – My profile picture
 
 ---
 
@@ -33,5 +32,5 @@ I’m currently a high school student in S6 MPC in Rwanda, learning web developm
 
 ## 📞 Contact
 
-- **Email**: gilbert@example.com  
-- **Phone**: +250 7XX XXX XXX
+- **Email**: gilbertmanizirebera@gmail.com  
+- **Phone**: +250 798 253 174
